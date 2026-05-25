@@ -1,4 +1,4 @@
-# 🏰 Session 005: Sunblight's Vengeance
+# 🏰 Session 5: Sunblight's Vengeance
 
 *11/10/2025*
 

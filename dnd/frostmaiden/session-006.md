@@ -1,4 +1,4 @@
-# 🐉 Session 006: Destruction's Light
+# 🐉 Session 6: Destruction's Light
 
 *16/11/2025*
 

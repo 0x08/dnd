@@ -1,4 +1,4 @@
-# ❄️ Session 009: The Beacon
+# ❄️ Session 9: The Beacon
 
 *25/05/2026*
 

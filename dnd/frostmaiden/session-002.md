@@ -1,4 +1,4 @@
-# 🧊 Session 002: Secrets of Ten-Towns
+# 🧊 Session 2: Secrets of Ten-Towns
 
 *02/03/2025*
 
