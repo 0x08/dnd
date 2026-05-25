@@ -1,4 +1,4 @@
-# Session 4
+# 🐺 Session 004: Chardalyn Shadows
 
 *24/08/2025*
 

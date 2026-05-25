@@ -1,4 +1,4 @@
-# Session 8
+# 🔮 Session 008: The Caves of Hunger
 
 *29/03/2026*
 

@@ -1,4 +1,4 @@
-# Session 1
+# 🌌 Session 001: The Eternal Twilight
 
 02/02/2025
 

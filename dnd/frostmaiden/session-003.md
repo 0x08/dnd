@@ -1,4 +1,4 @@
-# Session 3
+# 🏔️ Session 003: Blizzard Born
 
 *22/06/2025*
 

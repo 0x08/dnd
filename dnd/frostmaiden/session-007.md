@@ -1,4 +1,4 @@
-# Session 7
+# 🐋 Session 007: Voyage of the Angajuk
 
 *10/01/2026*
 
