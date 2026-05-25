@@ -1,0 +1,7 @@
+# Session 12: Infiltration of the Amber Temple
+
+The party began by taking a long, uninterrupted rest inside the relative safety of the Tsolenka Pass guard tower. Resuming your journey, you crossed a high bridge spanning a deep river canyon, passing by a motionless, mounted figure who watched your progress in eerie silence. You followed the steep, winding mountain road until you reached a fork in the trail; steering north, you marched until a massive, sinister temple carved with six colossal amber statues loomed out of the snow.
+
+The moment you stepped through the grand entrance of the Amber Temple, a deadly ambush was sprung. A trio of floating, cackling flameskulls and a bizarre, foxlike creature that had taken refuge inside the hollow head of a giant statue opened fire on the group. A frantic battle ensued; while you successfully destroyed the flameskulls, the cunning foxlike entity managed to unleash a wave of magic that completely paralyzed Kevin, Gillian, and Kaz before fleeing deeper into the complex.
+
+Once the paralysis wore off, the party located a hidden secret passage. Exploring the narrow corridor, you discovered the frozen corpse of a long-dead wizard. The corpse was still tightly clutching a *wand of secrets*, which Alex carefully retrieved for the party's use. Eager to explore the upper reaches of the chamber, Wilbin stepped forward and began formulating a plan to scale one of the massive amber statues so he could peer through its hollow eye holes.

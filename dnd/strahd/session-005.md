@@ -1,0 +1,9 @@
+# Session 5: The Shadows of Vallaki
+
+Through your shared hardships and triumphs across the valley, the party successfully grew in power and reached level 6!
+
+Upon arriving at the gates of Vallaki, you managed to convince the suspicious guards to grant you entry. Your first stop was the Blue Water Inn, where you left Ismark, Ireena, and the two rescued children to secure rooms and unpack while the rest of the party set out to explore the settlement. Heading into the local stockyard, you conducted a quick sweep of the area and noticed a peculiar carnival wagon belonging to an enigmatic showman named Rictavio. From there, you walked to the bustling town square, where you witnessed the imposing Izek Strazni putting up new festival signs. You took some time to interview the miserable citizens trapped in the stocks and those gathering water from the central fountain, learning about the iron-fisted rule of the Baron and the brewing political opposition led by Lady Wachter.
+
+Realizing the town held deep secrets, you made your way to the local church and met with Father Lucian. The panicked priest confided in you that the sacred bones of St. Andral, which protected the church from vampire intrusion, had been stolen. You cross-examined the church hand, Milivoj, who eventually confessed that he had stolen the relics in exchange for coin provided by Henrik van der Voort, the local coffin maker.
+
+The party marched directly to the coffin maker's shop and broke down the front door. Cornered, Henrik confessed that he had dangerous "visitors" staying upstairs in the storage room where the bones were hidden. Moving cautiously into the upper loft, Ulvor pried open a large wooden crate, immediately triggering an ambush as the bloodthirsty vampire spawn hiding within lunged out at the party.

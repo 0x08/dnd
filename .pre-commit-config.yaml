@@ -1,0 +1,33 @@
+# .pre-commit-config.yaml
+repos:
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.21
+    hooks:
+      - id: mdformat
+        name: Format Markdown files
+        types: [markdown]
+        additional_dependencies:
+          - mdformat-gfm
+
+  - repo: local
+    hooks:
+      - id: mkdocs-strict-build
+        name: Verify MkDocs strict build
+        entry: mkdocs build --strict
+        language: python
+        pass_filenames: false
+        additional_dependencies:
+          [
+            "mkdocs>=1.5.0",
+            "mkdocs-material>=9.0.0",
+            "mkdocs-minify-plugin>=0.8.0",
+          ]
+        files: ^(mkdocs\.yaml|dnd/.*\.md)$
+
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v4.0.0-alpha.8
+    hooks:
+      - id: prettier
+        name: Format YAML files
+        types: [yaml]
+        args: [--print-width=80, --single-quote=false]

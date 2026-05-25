@@ -1,0 +1,7 @@
+# Session 4: Infiltration of Tresendar Manor
+
+Utilizing the secret forest entrance that young Pip had revealed, the party slipped quietly into the damp, subterranean vaults stretching beneath the ruins of Tresendar Manor. The moment you stepped into the natural cavern rift, you could hear the eerie, echoing telepathic whispers of a bizarre creature you dubbed the "Eye Monster." Rather than letting the telepathic aberration pin you down, the party pushed forward into the adjacent guardrooms, ambushing a squad of brutish bugbears and slaying them before they could sound the alarm.
+
+Advancing down a stone corridor, you threw open a heavy oak door to find a group of Redbrand ruffians completely distracted by a high-stakes card game. The party capitalized on the surprise, cutting down the bandits at the table before they could reach for their weapons. Wishing to ensure their rear flank was secure, you doubled back to systematically purge the southeastern wing of the complex.
+
+The dungeon crawling proved highly treacherous; while navigating a dark hallway, multiple party members triggered a pressure plate and tumbled into a deep, concealed pit trap. At the bottom of the pit, a group of ancient skeletons rattled to life to attack. The party fought back from the dirt, smashing the bones to splinters and discovering three valuable magical rings buried in the debris. After climbing out of the pit, you advanced on the holding cells, cutting through the final line of Redbrand jailers who were guarding the heavy iron cages where the town prisoners were weeping.

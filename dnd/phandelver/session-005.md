@@ -1,0 +1,9 @@
+# Session 5: Secrets of the Redbrands
+
+The party successfully shattered the iron padlocks on the holding cells, rescuing Mirna Dendrar and her terrified children from their grim confinement. In an act of profound respect, you also located and recovered the skeletal remains of her murdered husband, Thel, to ensure he received a proper burial. Overwhelmed with gratitude, Mirna pulled the party aside and shared a valuable family secret, providing precise coordinates to a priceless emerald heirloom hidden within the ruined wilderness village of Thundertree, located far to the east of Neverwinter.
+
+With the civilians escorted to safety, the party completed a systematic purge of the remaining chambers, ensuring that the Redbrand gang would never terrorize the citizens of Phandalin ever again. During a brief scouting run into the surrounding woods, Kaz spotted a magnificent wild falcon; using patience and a gentle touch, he successfully befriended the bird of prey, naming it Bloodwing.
+
+Returning to the central rift, you decided to feed the ravenous Nothic by tossing several fresh Redbrand corpses down into its chasm. Delighted by the gory feast, the monster shared deep secrets via telepathy, revealing that "Glassstaff" was merely a cover identity for the missing Lords' Alliance wizard, Iarno Albrek. Satisfied with the intelligence, you honored your bargain and allowed the aberration to depart the caverns in peace.
+
+A meticulous search of Glassstaff’s private laboratory and writing desk yielded a trove of damning evidence, including a direct, handwritten letter addressed to Iarno from a mysterious criminal mastermind signing off as the "Black Spider." With the hideout entirely broken, the party marched back out into the sunlight, finalizing their tactical plans to travel northeast to locate the banshee Agatha.

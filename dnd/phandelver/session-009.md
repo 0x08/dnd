@@ -1,0 +1,7 @@
+# Session 9: The Cult of the Dragon
+
+The urban skirmish through the streets of Thundertree was swift and uncompromising. The party cut off all avenues of escape, successfully executing every single member of the Dragon Cult. Searching the corpse of their fanatical leader, Favric, you hit a massive tactical jackpot: you uncovered a locked iron coffer containing a magnificent tribute intended for the dragon, which held three flawless diamonds worth one hundred gold pieces each along with a magical *potion of flying*.
+
+With the cult broken, the party completed a total purge of the remaining sectors of the village, hacking through clusters of aggressive Twig Blights and putting down the shuffling Ash Zombies. To mark your victory and clear the sightlines, the party gathered around the central square and used their combined strength to forcefully push over the massive weathered stone statue standing in the plaza.
+
+The group returned to Reidoth’s fortified cottage to secure a well-deserved rest. Over a camp dinner, you discussed advanced draconic tactics with the druid, preparing your strategy to confront the green beast. The next morning, you marched up the hill to the base of the grand stone tower. Peeking through the shattered masonry, you spotted the massive, scaled form of Venomfang pretending to be fast asleep amidst his gold hoard. Refusing to waste time on diplomacy, Ulvor drew his weapons and immediately charged headfirst into the tower to attack.

@@ -1,0 +1,5 @@
+# Session 4: Old Bonegrinder
+
+The party approached and cautiously entered the ancient windmill. Inside, Wilbin encountered Morgantha and quickly purchased some more of her addictive pies. However, when questioned about the specific ingredients used in her baking, the old woman stubbornly refused to answer. Suspecting foul play, Ulvor tried to aggressively push past her daughters to investigate the upper floors of the structure.
+
+A fierce, confined battle immediately erupted. The hags unleashed their dark magic, but the party pushed through the assault, ultimately killing Morgantha and her two wicked daughters. Ascending the stairs to search the upper levels, you discovered a pair of terrified children locked inside small cages. The rescued children instantly recognized Ireena and Ismark, bringing immense relief to the siblings. Before abandoning the foul windmill, you searched the cupboards and uncovered three mysterious vials filled with potent poisons and magical mixtures. Securing the items and keeping the children close, the expanded group set off down the road toward the walled town of Vallaki.

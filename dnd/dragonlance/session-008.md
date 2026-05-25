@@ -1,0 +1,11 @@
+# Session 8: The Shadow of Caradoc
+
+The confrontation outside the council chambers exploded into a frantic melee as the two suits of armor revealed themselves to be powerful, ancient skeleton knights. The party traded heavy blows with the undead guardians, ultimately smashing the bones to splinters. The very moment the final knight fell, Dave came bursting into the corridor, remarkably carrying an incredibly confused and disoriented warlock named Zarama over his broad shoulders. Zarama was utterly bewildered, having absolutely no idea why Dave had suddenly scooped her up from the city streets and dragged her into a active military castle.
+
+Brushing off the confusion, the unified party threw open the heavy oak doors and marched into the grand audience chamber, finding the room completely frozen in a supernatural twilight. Waiting for you in the shadows was the sinister spirit of Caradoc.
+
+A fast and lethal battle erupted. The party deployed their full martial capabilities, rapidly cutting through Caradoc’s physical knight form. However, the moment his physical shell collapsed, his true, malevolent spirit form rose from the corpse. Unleashing a wave of dark psychic energy, Caradoc seized absolute telepathic control over Dave’s mind, forcing the mighty warrior to turn his weapons upon his own companions. A tragic, chaotic frenzy followed, during which Dave tragically perished twice—once voluntarily to break the mental possession, and once forcefully amidst the crossfire.
+
+Through grit and divine intervention, the party successfully exorcised and destroyed Caradoc's spirit form. As his essence dissolved into the ether, his echoing voice promised that he would meet the characters again in the afterlife.
+
+With quiet restored to the bloody audience chamber, a sharp-eyed party member noticed a fresh, crimson trail of blood smudged across the stone floor in the far corner of the room. Following the gory tracks down a forgotten maintenance corridor, you discovered an area where a heavy, bricked-up wall had recently been violently knocked down from the inside. Peering through the dust, bricks, and rubble, you beheld a ancient flight of stone stairs descending deep into the subterranean darkness below the castle, where a faint, eerie violet illumination was visible pulsing far down in the depths.

@@ -1,0 +1,9 @@
+# Session 3: The Church and the Pastry Cart
+
+The morning began with a somber procession to the village church, where you met the local priest, Father Donavich. The party informed the distressed priest of their radical plan: they would attempt to put down his vampiric son, Doru, and then immediately revive him. Donavich reluctantly agreed to the attempt and headed out to the cemetery alongside Ireena and Ismark to begin burying the Burgomaster.
+
+The party descended into the dark undercroft, successfully executing the plan by killing and subsequently reviving Doru. Overjoyed by his son's salvation, Father Donavich wept as Doru provided vital intelligence regarding Strahd and a mysterious figure known as the "Mad Mage." Before you departed, Donavich pulled the party aside to reveal a deep secret: Ireena was not the biological daughter of the Burgomaster, but an orphan he had found abandoned at the edge of the woods and adopted. This came as a shock to the party, as neither Ismark nor Ireena had any knowledge of her true heritage.
+
+As you stepped outside the church, Wilbin noticed an old woman peddling homemade pies from a small pushcart. Driven by curiosity, Wilbin immediately bought and wolfed one down, which caused him to instantly plunge into vivid hallucinations. Seizing a chaotic opportunity, Ulvor secretly snatched several more pastries from the cart just before Kaz set the entire wooden cart ablaze, sending the old woman running away in terror.
+
+The party gathered themselves and set off west down the road. In an attempt to lift spirits, a few jokes were shared before Gillian decided to play the bagpipes. To everyone's utter dismay, the performance was so jarring that it completely incapacitated the still-recovering Wilbin. Needing a change of pace, the group decided to veer off the main path to investigate a lonely windmill standing in the distance.

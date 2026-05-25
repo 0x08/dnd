@@ -1,0 +1,7 @@
+# Session 18: The Doppelgänger and the Winery
+
+Following a restorative long rest by the lake, the party packed up camp and resumed their march toward the village of Krezk. As you traveled along the road, you stumbled upon a gruesome sight: a mangled corpse that looked exactly like Ulvor. Shaken but solemn, Ulvor paid his respects by leaving a handaxe and a small arrangement of flowers on his own dead double, while Gillian provided a beautiful, haunting melody on his instrument to mark the eerie occasion.
+
+After a full morning of travel, you finally arrived at the gates of Krezk, but the suspicious guards refused to grant you entry, calling for the Burgomaster instead. The Burgomaster appeared and offered a strict bargain: he would consider opening the gates to Krezk only after the party secured a shipment of wine from the nearby Wizard of Wines winery, which had gone mysteriously dark.
+
+The party immediately diverted to the Wizard of Wines vineyard, where you encountered a stressed Davian Martikov. He explained that a hostile force of evil druids and corrupted blights had seized the winery and begged for your assistance. The conversation was cut short as a massive horde of twig and needle blights, led by a dark druid, swarmed out of the vineyards to attack. The party fought back fiercely, obliterating the plant monsters and successfully capturing the druid alive for questioning.

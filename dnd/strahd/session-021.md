@@ -1,0 +1,7 @@
+# Session 21: The Sunsword Awakens
+
+The battle atop Yester Hill raged on, but through sheer martial prowess and arcane might, the party successfully defeated all the remaining druids and berserkers. Searching the battlefield, Wilbin sifted through the smoking remains of the massive tree blight and uncovered a beautifully glowing green crystal—the stolen magical gem from the winery. To the southwest of the hill, you discovered a twisted tree with a magical battleaxe embedded deep within its trunk; you successfully pried the weapon loose, identifying it as *Treebane*. Following a hunch, you began digging beneath the nearby skeleton of a long-dead adventurer, uncovering a large, ornately decorated box. Inside lay your grandest discovery yet: the legendary **Sunsword**.
+
+This monumental triumph pushed the party's capabilities to new heights, and you officially reached level 8!
+
+Kaz immediately sat down to commune with the sentient weapon, successfully attuning to the Sunsword. Standing on the western edge of the hill, you looked out over the roiling fog banks and caught a glimpse of a strange, distant city shimmering through the mists. Turning back, you returned to the winery and presented the glowing green crystal to Davian. He shared some lore regarding the crystals and the nature of the valley's choking mists, confirming that Baba Lysaga was indeed the keeper of the next gem. With your mission accomplished and a fresh wagon of unpoisoned wine secured, the party set off once more toward the gates of Krezk.

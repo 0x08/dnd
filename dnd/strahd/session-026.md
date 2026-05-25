@@ -1,0 +1,9 @@
+# Session 26: Return to Vallaki
+
+**Date:** February 12, 2025
+
+The party systematically swept through the remaining rooms of the Abbey, checking on the remaining pockets of Mongrelfolk. During the sweep, Ulvor discovered a small group of them hoarding a golden statuette; through quick bartering, you managed to exchange a platinum ring to claim the relic. Kaz spoke to the raven in the garden, learning crucial information about the second magical winery gem—the bird confirmed that Baba Lysaga had used its vibrant magic to physically animate her creeping swamp hut. Meanwhile, Kevin took custody of the newly acquired golden statuette, discovering that it possessed a powerful blessing granting him a +1 bonus to all saving throws.
+
+With the Abbey completely cleared and secured, you marched back down the mountain into the village and met with the Burgomaster. You explained the horrific reality of what had occurred within the monastery walls and officially set your two mongrelfolk prisoners, Zygfrek and Otto, free. Deeply relieved that the shadow over his town had been lifted, the Burgomaster declared that the party would always be safely welcomed in Krezk from that day forward.
+
+Wishing to check on your allies, you traveled back down the highway to Vallaki. Your first stop was St. Andral’s Church, where you confirmed that Ireena and Ismark were still safe under the priest's care. From there, you headed to the Blue Water Inn and reconvened with Urwin Martikov. You explained how you had successfully liberated his family’s winery, but Urwin once again adamantly denied any personal involvement or knowledge regarding the missing gems. You conducted a thorough sweep of the area to locate the first missing stone but came up empty-handed. After enjoying a long rest and a peaceful night's sleep, the party resolved to visit the local Vistani camp to purchase vital supplies before finally honoring Strahd's lingering dinner invitation.
