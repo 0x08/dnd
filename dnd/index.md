@@ -4,47 +4,35 @@ Welcome to the central archive of our tabletop adventures. Select a campaign bel
 
 ______________________________________________________________________
 
-## 🗺️ Select an Adventure
+## 🗺️ Active Campaigns
 
-=== "Active Campaigns"
+- ### 🧛 Curse of Strahd
 
-```
-<div class="grid cards" mkdirs>
+  An archive of our journey into the misty Domain of Dread. Track our dealings with the Vistani, our encounters within Castle Ravenloft, and our hunt for the dark artifacts foretold by the Tarokka cards.
 
--   ### 🧛 Curse of Strahd
-    ---
-    An archive of our journey into the misty Domain of Dread. Track our dealings with the Vistani, our encounters within Castle Ravenloft, and our hunt for the dark artifacts foretold by the Tarokka cards.
-    
-    [:material-arrow-right: Explore Barovia](./strahd/campaign.md)
+  👉 [Explore Barovia](./strahd/campaign.md)
 
--   ### 🐉 Dragonlance: Shadow of the Dragon Queen
-    ---
-    The war journal of the Benebog Slayers. Follow our journey from the tragic fall of Vogler to the deep catacombs of Kalaman, and our deployment into the northern wastes to reclaim the flying city of Onyari.
-    
-    [:material-arrow-right: Read the War Logs](./dragonlance/campaign.md)
+- ### 🐉 Dragonlance: Shadow of the Dragon Queen
 
--   ### ❄️ Icewind Dale: Rime of the Frostmaiden
-    ---
-    Logs detailing our perilous survival through the frozen north. Track our active quests, regional objectives, and structural milestones within the eternal winter of the Ten-Towns.
-    
-    [:material-arrow-right: Explore the Frozen North](./frostmaiden/campaign.md)
+  The war journal of the Benebog Slayers. Follow our journey from the tragic fall of Vogler to the deep catacombs of Kalaman, and our deployment into the northern wastes to reclaim the flying city of Onyari.
 
-</div>
-```
+  👉 [Read the War Logs](./dragonlance/campaign.md)
 
-=== "Completed Chronicles"
+- ### ❄️ Icewind Dale: Rime of the Frostmaiden
 
-```
-<div class="grid cards" mkdirs>
+  Logs detailing our perilous survival through the frozen north. Track our active quests, regional objectives, and structural milestones within the eternal winter of the Ten-Towns.
 
--   ### 🕸️ Lost Mine of Phandelver
-    ---
-    Our first operational chronicle tracking the liberation of Phandalin. Follow the tracking of the Cragmaw goblins, the dismantling of the Redbrands, and our ultimate showdown within Wave Echo Cave.
-    
-    [:material-arrow-right: Read the Archives](./phandelver/campaign.md)
+  👉 [Explore the Frozen North](./frostmaiden/campaign.md)
 
-</div>
-```
+______________________________________________________________________
+
+## 🕸️ Completed Chronicles
+
+- ### 🪓 Lost Mine of Phandelver
+
+  Our first operational chronicle tracking the liberation of Phandalin. Follow the tracking of the Cragmaw goblins, the dismantling of the Redbrands, and our ultimate showdown within Wave Echo Cave.
+
+  👉 [Read the Archives](./phandelver/campaign.md)
 
 ______________________________________________________________________
 
