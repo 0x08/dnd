@@ -8,6 +8,9 @@
 - **Cudgel Ironclad:** The fierce leader of the Ironclad Regiment, a mercenary company initially hired for festival re-enactments who later becomes a core tactical ally.
 - **The Dragon Army (Red Wing):** A brutal, highly organized invading force marching under the banner of the Dragon Queen, utilizing reptilian Draconians, Hobgoblins, and terrifying siege machinery.
 - **Dalamar the Dark:** A mysterious and ambitious elven mage encountered in the Northern Wastes, seeking magical secrets while offering critical tactical intelligence to the party.
+- **Lord Soth:** The infamous death knight whose Cataclysm-era dishonour shadows the entire campaign. He stole the cataclysmic fire from the tombs beneath Kalaman Castle and now rides a skeletal dragon in escort of his risen citadel.
+- **Lord Bakaris:** An arrogant Kalaman noble and a persistent obstacle to the party's operations, who ultimately defected to the Dragon Army and was cut down attempting to open the city's Eastern Gate to enemy troops.
+- **Clystran:** A dragonnel rider allied to the Kalaman forces, who scouted the underside of the Bastion of Takhisis alongside Darrett and proposed infiltrating it from below.
 
 ## Magical Inventions & Artifacts
 
@@ -22,3 +25,4 @@
 - **Kalaman:** A heavily fortified port city, serving as the central bastion of defense and military command in the region.
 - **The Northern Wastes:** A barren, treacherous expanse of scarred earth, ancient ruins, and lethal wildlife hiding the path to the lost past.
 - **The City of Lost Names (Onyari):** A legendary, ruined flying city of pleasure built atop the remains of dead dragons, acting as the ultimate objective for both the party and the Dragon Army.
+- **The Bastion of Takhisis:** An ancient temple of the dark gods torn free of the collapsing Onyari and borne aloft on cataclysmic fire, serving as the Dragon Army's flying citadel and the spearhead of the assault on Kalaman.
